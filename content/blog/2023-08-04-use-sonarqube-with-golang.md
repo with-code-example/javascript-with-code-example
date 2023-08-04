@@ -2,7 +2,7 @@
 layout: post
 title: How to Use Sonarqube in Go Project?
 description: Learn about soarqube, how to install sonarqube? and analyse your go code with sonarqube.
-featured_image: https://res.cloudinary.com/harendra21/image/upload/v1691085870/awesome-go-lang/sonarqube-share_tw4ntv.png
+featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-go-lang/sonarqube-share_tw4ntv.png
 tags: [golang, sonarqube]
 comments: true
 slug: use-sonarqube-with-golang

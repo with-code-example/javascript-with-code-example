@@ -3,7 +3,7 @@ layout: post
 title: Golang Program Example to Sort an Array
 subtitle: Learn how to sort an array in golang with examples
 description: Learn how to sort an array in golang with examples
-featured_image: https://res.cloudinary.com/harendra21/image/upload/v1691075824/awesome-go-lang/Golang_To_Sort_Array_ewwc51.png
+featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-go-lang/Golang_To_Sort_Array_ewwc51.png
 tags: [golang, example]
 comments: true
 date: 2023-08-03

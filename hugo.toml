@@ -7,13 +7,77 @@ copyright = "Harendra Kumar"
 disqusShortname = "awesome-golang"
 googleAnalytics = "UA-1XXXXXXX1-X"
 pygmentsCodeFences = true
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodefencesGuessSyntax = true
+
+
+[Params]
+  subtitle = "Learn Golang With Examples"
+  mainSections = ["blog"]
+  #logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = true
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = false
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "Harendra Kumar"
+  website = "https://harendra21.github.io"
+  email = "harendraverma21@gmail.com"
+  facebook = "harendraverma21"
+  github = "harendra21"
+  #gitlab = "username"
+  #bitbucket = "username"
+  twitter = "harendraverma2"
+  #reddit = "username"
+  linkedin = "harendra21/"
+  #xing = "username"
+  stackoverflow = "users/6720451/harendra-kumar"
+  #snapchat = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #elegram = "username"
+  #500px = "username"
+  #codepen = "username"
+  #mastodon = "url"
+  #kaggle = "username"
+  #eibo = "username"
+  #slack = "username"
+  #medium = "username"
+  #discord = "invite code (https://discord.gg/XXXXXXX)"
+  #strava = "userid"
 
 [[menu.main]]
     name = "Blog"
     url = ""
     weight = 1
-
 [[menu.main]]
     name = "About"
     url = "page/aboutme/"
+    weight = 2
+[[menu.main]]
+    name = "Sitemap"
+    url = "sitemap.xml"
     weight = 3
+[[menu.main]]
+    name = "Feeds"
+    url = "index.xml"
+    weight = 4
