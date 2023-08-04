@@ -4,6 +4,16 @@ title = 'Awesome Golang'
 theme = 'beautifulhugo'
 summaryLength = 25
 copyright = "Harendra Kumar"
-disqusShortname = "shortDisquis"
+disqusShortname = "awesome-golang"
 googleAnalytics = "UA-1XXXXXXX1-X"
 pygmentsCodeFences = true
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "page/aboutme/"
+    weight = 3
