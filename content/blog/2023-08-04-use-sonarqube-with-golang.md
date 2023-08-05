@@ -13,33 +13,44 @@ toc: true
 
 SonarQube is an open-source platform designed for continuous inspection of code quality. It is used by development teams and organizations to monitor, analyze, and manage the quality of their source code. SonarQube supports a wide range of programming languages and provides valuable insights into the health of software projects.
 
-Key Features of SonarQube:
+## Key Features of SonarQube:
 
-1. **Code Quality Analysis:** SonarQube performs static code analysis to identify bugs, security vulnerabilities, and code smells (poorly designed code). It checks adherence to coding standards and best practices.
+### 1. Code Quality Analysis:
+SonarQube performs static code analysis to identify bugs, security vulnerabilities, and code smells (poorly designed code). It checks adherence to coding standards and best practices.
 
-2. **Metrics and Dashboards:** SonarQube collects and displays various metrics related to code quality, including code duplication, complexity, test coverage, and maintainability. It presents the metrics through interactive dashboards.
+### 2. Metrics and Dashboards:
+SonarQube collects and displays various metrics related to code quality, including code duplication, complexity, test coverage, and maintainability. It presents the metrics through interactive dashboards.
 
-3. **Issue Tracking and Management:** SonarQube highlights code issues and provides detailed information about each problem. Developers can use this information to prioritize and fix issues efficiently.
+### 3. Issue Tracking and Management:
+SonarQube highlights code issues and provides detailed information about each problem. Developers can use this information to prioritize and fix issues efficiently.
 
-4. **Continuous Inspection:** SonarQube supports integration with CI/CD (Continuous Integration/Continuous Deployment) pipelines, allowing code quality checks to be performed automatically at each code commit.
+### 4. Continuous Inspection:
+SonarQube supports integration with CI/CD (Continuous Integration/Continuous Deployment) pipelines, allowing code quality checks to be performed automatically at each code commit.
 
-5. **Language Support:** SonarQube supports multiple programming languages, including Java, C/C++, C#, JavaScript, TypeScript, Python, Go, and more. This makes it a versatile tool for analyzing code in diverse projects.
+### 5. Language Support:
+SonarQube supports multiple programming languages, including Java, C/C++, C#, JavaScript, TypeScript, Python, Go, and more. This makes it a versatile tool for analyzing code in diverse projects.
 
-6. **Quality Gate:** SonarQube allows you to define a set of quality criteria known as a "Quality Gate." If the project fails to meet these criteria, it can block further development until the issues are resolved.
+### 6. Quality Gate:
+SonarQube allows you to define a set of quality criteria known as a "Quality Gate." If the project fails to meet these criteria, it can block further development until the issues are resolved.
 
-7. **Custom Rules and Profiles:** SonarQube lets you create custom coding rules and quality profiles to match your organization's coding standards and specific requirements.
+### 7. Custom Rules and Profiles:
+SonarQube lets you create custom coding rules and quality profiles to match your organization's coding standards and specific requirements.
 
-8. **Security Analysis:** With plugins like SonarSource's Security plugins (e.g., SonarQube Security for Java and JavaScript), it can identify security vulnerabilities, such as SQL injection and cross-site scripting.
+### 8. Security Analysis:
+With plugins like SonarSource's Security plugins (e.g., SonarQube Security for Java and JavaScript), it can identify security vulnerabilities, such as SQL injection and cross-site scripting.
 
-9. **Plugin Ecosystem:** SonarQube has a rich plugin ecosystem that extends its functionality. You can install additional plugins to add new languages, integrations, and custom rules.
+### 9. Plugin Ecosystem:
+SonarQube has a rich plugin ecosystem that extends its functionality. You can install additional plugins to add new languages, integrations, and custom rules.
 
-10. **Integration with Development Tools:** SonarQube can be integrated with popular development tools like Eclipse, IntelliJ IDEA, Visual Studio, and build tools like Maven, Gradle, and Jenkins.
+### 10. Integration with Development Tools:
+SonarQube can be integrated with popular development tools like Eclipse, IntelliJ IDEA, Visual Studio, and build tools like Maven, Gradle, and Jenkins.
 
-11. **Community and Commercial Editions:** SonarQube is open-source, and there are community editions available for free. Additionally, there are commercial editions with more advanced features and support options provided by SonarSource, the company behind SonarQube.
+### 11. Community and Commercial Editions:
+SonarQube is open-source, and there are community editions available for free. Additionally, there are commercial editions with more advanced features and support options provided by SonarSource, the company behind SonarQube.
 
 Using SonarQube with a Golang project involves several steps to set up the static code analysis and perform code quality checks. SonarQube is primarily designed for analyzing Java and other JVM-based languages, but you can use the SonarQube Scanner for other languages like Golang by using a plugin called "SonarGo." SonarGo is a third-party plugin that provides support for analyzing Golang projects in SonarQube.
 
-Here's a step-by-step guide to using SonarQube with a Golang project:
+## Step-by-step guide to using SonarQube with a Golang project:
 
 ### Step 1: Set up SonarQube Server
 

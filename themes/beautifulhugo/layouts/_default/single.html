@@ -8,6 +8,7 @@
           <img src="{{ .Params.featured_image }}" alt="{{ .Params.title  }}">
         {{ end }}
 
+        {{ partial "toc.html" . }}
         {{ .Content }}
 
         {{ if .Params.tags }}

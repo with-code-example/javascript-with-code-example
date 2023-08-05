@@ -32,6 +32,7 @@ pygmentsCodefencesGuessSyntax = true
   gcse = "667de25a4f13c494d" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 #  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
   timeZone = "Asia/Kolkata"
+  generateTOC = true
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
