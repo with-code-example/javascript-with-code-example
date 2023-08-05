@@ -7,7 +7,7 @@ tags: [golang, golang-best-practices]
 comments: true
 date: 2023-08-10
 toc: true
-draft: true
+draft: false
 slug: concurrency-goroutines-mastering-parallelism-go
 ---
 

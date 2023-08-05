@@ -8,6 +8,7 @@ tags: [golang, sonarqube]
 comments: true
 slug: how-to-deploy-sonarqube-with-docker-compose
 date: 2023-08-05
+draft: false
 ---
 
 Docker and Docker Compose are powerful tools for containerization, allowing developers to package, distribute, and run applications and their dependencies in isolated containers. Here's a brief overview of both tools and instructions on how to install them on an Ubuntu machine:

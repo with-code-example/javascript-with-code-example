@@ -7,7 +7,7 @@ featured_imgage: https://res.cloudinary.com/harendra21/image/upload/w_750/awesom
 tags: [golang, golang-best-practices]
 comments: true
 date: 2023-08-08
-draft: true
+draft: false
 toc: true
 slug: code-formatting-and-style-a-guide-for-developers
 ---

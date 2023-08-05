@@ -7,7 +7,7 @@ tags: [golang, golang-best-practices]
 comments: true
 date: 2023-08-11
 toc: true
-draft: true
+draft: false
 slug: memory-management-golang-safeguarding-efficiency-stability
 ---
 
