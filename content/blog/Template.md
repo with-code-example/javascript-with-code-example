@@ -6,7 +6,7 @@ tags: [golang]
 comments: true
 date: 2023-DD-MM
 toc: true
-draft: false
+draft: true
 slug: 
 
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How to Analyze Golang Project by Sonarqube With Github Actions/Workflow?
 subtitle: Analyze Golang Project by Sonarqube With Github Actions
 description: Learn how to use github workflow to check your golang code with sonqrqube.
