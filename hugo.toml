@@ -13,6 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 
 
 [Params]
+  homeTitle = 'Awesome Golang'
   title = 'Awesome Golang'
   subtitle = "Learn Golang With Examples"
   mainSections = ["blog"]
