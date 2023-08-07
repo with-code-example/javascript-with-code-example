@@ -2,7 +2,7 @@
 title: Code Formatting and Style - A Guide for Developers
 subtitle: Format you golang code
 description: As a developer, adhering to consistent code formatting guidelines, using indentation and whitespace effectively, and following naming conventions significantly contribute to the readability and maintainability of your code
-featured_imgage: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-go-lang/gu0po1ufbqv2vkwqcxpj.jpg
+featured_imgage: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-go-lang/Code%20formatting%20and%20style.png
 tags: [golang, golang-best-practices]
 comments: true
 date: 2023-08-08
