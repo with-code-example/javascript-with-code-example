@@ -5,7 +5,7 @@ featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/awesome-go-lang/Golang_Best_Practices_add2ok.png
 tags: [golang, golang-best-practices]
 comments: true
-slug: 2023-08-07-introduction-to-golang-best-practices
+slug: introduction-to-golang-best-practices
 date: 2023-08-07
 draft: false
 toc: true
