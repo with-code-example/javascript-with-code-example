@@ -2,11 +2,12 @@
 title: 
 subtitle: 
 featured_image: 
+thumbnail: 
 tags: [golang]
 comments: true
 date: 2023-DD-MM
 toc: true
-draft: true
+draft: false
 slug: 
 
 
