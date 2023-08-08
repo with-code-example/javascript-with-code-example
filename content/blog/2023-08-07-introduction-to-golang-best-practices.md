@@ -2,6 +2,7 @@
 title: Introduction to Golang Best Practices
 description: Golang best practices ensure maintainable, efficient code by emphasizing consistency, readability, and scalability. They reduce bugs, enable seamless collaboration, and enhance code quality.
 featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-go-lang/Golang_Best_Practices_add2ok.png
+thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/awesome-go-lang/Golang_Best_Practices_add2ok.png
 tags: [golang, golang-best-practices]
 comments: true
 slug: 2023-08-07-introduction-to-golang-best-practices
@@ -47,8 +48,6 @@ Embracing best practices allows developers to avoid reinventing the wheel and gr
 
 ### 4. Reduced Technical Debt:
 Incorporating best practices from the outset prevents the accumulation of technical debt. This translates to less time spent on rework or fixing issues later in the development lifecycle, freeing up resources for innovation.
-
-![Alt text](../../assets/Better Application Performance.png)
 
 ### 5. Better Application Performance:
 Optimized code resulting from best practices unlocks the full potential of applications. The outcome? Faster, more resource-efficient applications that provide a seamless user experience.

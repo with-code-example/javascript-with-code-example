@@ -3,6 +3,7 @@ title: Code Formatting and Style - A Guide for Developers
 subtitle: Format you golang code
 description: As a developer, adhering to consistent code formatting guidelines, using indentation and whitespace effectively, and following naming conventions significantly contribute to the readability and maintainability of your code
 featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-go-lang/Code%20formatting%20and%20style.png
+thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/awesome-go-lang/Code%20formatting%20and%20style.png
 tags: [golang, golang-best-practices]
 comments: true
 date: 2023-08-08
@@ -23,7 +24,6 @@ Consistency in code formatting is crucial for team collaboration and code readab
 - Place opening braces for functions and control structures on the same line.
 
 ### Example - Consistent Code Formatting:
-![Consistent Code Formatting](./../../assets/Code%20Formatting.png)
 ```go
 package main
 

@@ -11,7 +11,7 @@ pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 enableRobotsTXT = true
-
+paginate = 10
 
 [Params]
   homeTitle = 'Awesome Golang'
