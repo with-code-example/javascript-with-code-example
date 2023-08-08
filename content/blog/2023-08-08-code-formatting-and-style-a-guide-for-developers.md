@@ -13,7 +13,7 @@ slug: code-formatting-and-style-a-guide-for-developers
 
 As a developer, writing clean and consistent code is essential for code readability and maintainability. Golang, with its strong emphasis on simplicity and elegance, has its own set of code formatting guidelines and style recommendations. In this article, we will explore the best practices for code formatting and style in Golang, covering consistent code formatting guidelines, effective use of indentation and whitespace, and naming conventions for variables and functions, all illustrated with practical examples.
 
-### 1. Consistent Code Formatting Guidelines
+## 1. Consistent Code Formatting Guidelines
 
 Consistency in code formatting is crucial for team collaboration and code readability. By following a consistent code style, developers can quickly understand and review each other's code, leading to a more efficient development process. The official Go language specification defines some standard code formatting guidelines, known as "gofmt" rules. Here are some key points to keep in mind:
 
@@ -22,8 +22,8 @@ Consistency in code formatting is crucial for team collaboration and code readab
 - Use blank lines to separate logical blocks of code for better organization.
 - Place opening braces for functions and control structures on the same line.
 
-**Example - Consistent Code Formatting:**
-
+### Example - Consistent Code Formatting:
+![Consistent Code Formatting](./../../assets/Code%20Formatting.png)
 ```go
 package main
 
@@ -43,11 +43,11 @@ func main() {
 }
 ```
 
-### 2. Effective Use of Indentation and Whitespace
+## 2. Effective Use of Indentation and Whitespace
 
 Indentation plays a significant role in making code visually appealing and readable. It helps developers understand the code's logical structure at a glance. Proper indentation is also crucial for maintaining code blocks and nested structures. Golang's standard indentation uses one tab character for each level of indentation.
 
-**Example - Effective Use of Indentation:**
+### Example - Effective Use of Indentation:
 
 ```go
 package main
@@ -65,11 +65,11 @@ func main() {
 }
 ```
 
-### 3. Naming Conventions for Variables and Functions
+## 3. Naming Conventions for Variables and Functions
 
 Choosing meaningful and consistent names for variables and functions is crucial for code readability. Golang follows the convention of using camelCase for variable and function names. It's essential to use descriptive names that convey the purpose of the variable or function.
 
-**Example - Naming Conventions:**
+### Example - Naming Conventions:
 
 ```go
 package main
