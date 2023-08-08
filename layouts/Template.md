@@ -1,7 +1,7 @@
 ---
 title: 
 subtitle: 
-description
+description: 
 featured_image: 
 thumbnail: 
 tags: [golang]
