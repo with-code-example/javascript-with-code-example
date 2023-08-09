@@ -1,5 +1,5 @@
 ---
-title: Error Handling in Golang - A Comprehensive Guide with Examples
+title: "Error Handling in Golang: A Comprehensive Guide with Examples"
 subtitle: Handle errors in golang
 description: Golang provides a robust error handling mechanism that allows developers to manage errors effectively. By understanding how to use error types and custom errors, defer and panic, and error wrapping, you can build reliable and resilient applications that gracefully handle unexpected situations.
 featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-go-lang/Golang_Best_Practices_mfwpuf.png
@@ -14,7 +14,7 @@ slug: error-handling-in-golang-a-comprehensive-guide-with-examples
 
 As a developer, you know that error handling is a critical aspect of building reliable and robust applications. Golang provides powerful error handling mechanisms that help you identify and manage errors effectively. In this article, we'll explore three essential topics related to error handling in Golang: Using Error Types and Custom Errors, Defer and Panic - When to Use Them Wisely, and Error Wrapping and Error Chains. Let's dive in!
 
-### 1. Using Error Types and Custom Errors
+## 1. Using Error Types and Custom Errors
 
 In Golang, errors are represented by the built-in `error` interface, which is defined as:
 
@@ -65,7 +65,7 @@ Output:
 Error: division by zero
 ```
 
-### 2. Defer and Panic - When to Use Them Wisely
+## 2. Defer and Panic - When to Use Them Wisely
 
 Golang provides the `defer` keyword, which allows you to schedule a function call to be executed after the surrounding function returns. It's commonly used for cleanup tasks like closing files or releasing resources.
 
