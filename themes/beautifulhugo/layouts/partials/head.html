@@ -73,7 +73,6 @@
   {{- if .Site.Params.selfHosted -}}
   <link rel="stylesheet" href="{{ "css/fonts.css" | absURL }}" />
   {{- else -}}
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
   {{- end -}}
 
@@ -84,18 +83,9 @@
   {{- end -}}
   <link rel="stylesheet" href="{{ "css/codeblock.css" | absURL }}" />
   
-  {{- if .Site.Params.staticman.recaptcha -}}
-  <script src='https://www.google.com/recaptcha/api.js'></script>
-  {{- end -}}
+ 
 
-  {{- if .Site.Params.selfHosted -}}
-  <link rel="stylesheet" href="{{ "css/photoswipe.min.css" | absURL }}" />
-  <link rel="stylesheet" href="{{ "css/photoswipe.default-skin.min.css" | absURL }}" />
-  {{- else -}}
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
-  {{- end -}}
-  <script type="text/javascript">
+  <!-- <script type="text/javascript">
     (function(window, document, dataLayerName, id) {
     window[dataLayerName]=window[dataLayerName]||[],window[dataLayerName].push({start:(new Date).getTime(),event:"stg.start"});var scripts=document.getElementsByTagName('script')[0],tags=document.createElement('script');
     function stgCreateCookie(a,b,c){var d="";if(c){var e=new Date;e.setTime(e.getTime()+24*c*60*60*1e3),d="; expires="+e.toUTCString();f="; SameSite=Strict"}document.cookie=a+"="+b+d+f+"; path=/"}
@@ -104,7 +94,7 @@
     tags.async=!0,tags.src="https://awesome-go-lang.containers.piwik.pro/"+id+".js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
     !function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
     })(window, document, 'dataLayer', 'c1e3ac27-5d88-4d9f-971a-28831665ba7e');
-    </script>
+    </script> -->
 
 {{- partial "head_custom.html" . }}
 {{- if not .Site.IsServer -}}
