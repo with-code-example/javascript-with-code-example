@@ -29,7 +29,7 @@ body {
 }
 
 body {
-  line-height: 2;
+  line-height: 1.5;
 }
 p + p {
     margin: 24px 0 6px 0;
@@ -502,7 +502,7 @@ footer div.disclaimer {
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 36px;
+    font-size: 30px;
   }
 }
 
@@ -964,4 +964,7 @@ h4.see-also {
   .post-thumbnail{
     margin-top: 44px;
   }
+}
+.post-meta-home{
+  font-size: 12px;
 }
