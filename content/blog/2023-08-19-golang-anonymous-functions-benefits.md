@@ -6,7 +6,7 @@ featured_image:
 thumbnail: 
 tags: [golang,anonymous-functions,lambda-functions,closures,code-readability,code-modularity,dynamic-behavior,code-optimization]
 comments: true
-date: 2023-08-15
+date: 2023-08-19
 toc: true
 draft: false
 slug: golang-anonymous-functions-benefits

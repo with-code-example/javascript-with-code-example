@@ -6,7 +6,7 @@ featured_image:
 thumbnail: 
 tags: [ golang, anonymous-functions, lambda-functions, closures, code-readability, code-modularity, dynamic-behavior, closure-properties, code-examples]
 comments: true
-date: 2023-08-16
+date: 2023-08-20
 toc: true
 draft: false
 slug: golang-anonymous-functions-guide

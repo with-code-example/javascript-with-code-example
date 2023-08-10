@@ -6,7 +6,7 @@ featured_image:
 thumbnail: 
 tags: [golang, append, append-to-slice, append-to-array, append-to-file, append-to-string, code-examples]
 comments: true
-date: 2023-08-17
+date: 2023-08-21
 toc: true
 draft: false
 slug: golang-append-operations-guide

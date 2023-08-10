@@ -6,7 +6,7 @@ featured_image:
 thumbnail: 
 tags: [golang, arrays, array-contains, array-literal, array-of-structs, array-vs-slice, array-of-strings, code-examples]
 comments: true
-date: 2023-08-18
+date: 2023-08-22
 toc: true
 draft: false
 slug: 
