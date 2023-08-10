@@ -18,7 +18,7 @@ Concurrency is a powerful aspect of modern programming that allows developers to
 
 Goroutines are lightweight threads that enable concurrent execution in Golang. Unlike traditional threads, Goroutines are managed by the Go runtime, making them highly efficient and scalable. Creating a Goroutine is as simple as using the `go` keyword followed by a function call.
 
-#### Example - Goroutine for Concurrent Execution:
+### Example - Goroutine for Concurrent Execution:
 
 ```go
 package main
@@ -123,7 +123,7 @@ In this example, we use a mutex to protect the shared `counter` variable from co
 
 Managing Goroutine lifecycles is crucial to avoid resource leaks and ensure that Goroutines terminate gracefully. Best practices include using WaitGroups, channels, and context package to manage the lifecycle of Goroutines effectively.
 
-#### Example - Using WaitGroups to Wait for Goroutines:
+### Example - Using WaitGroups to Wait for Goroutines:
 
 ```go
 package main
