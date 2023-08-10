@@ -2,7 +2,7 @@
 title: 
 subtitle: 
 description: 
-tags: [golang]
+tags: [javascript]
 slug: 
 featured_image: 
 thumbnail: 

@@ -1,10 +1,10 @@
-baseURL = 'https://awesome-go-lang.netlify.app/'
+baseURL = 'https://awesome-javascript.netlify.app/'
 languageCode = 'en-us'
-title = 'Awesome JS'
+title = 'Awesome Javascript'
 theme = 'beautifulhugo'
 summaryLength = 25
 copyright = "Harendra Kumar Kanojiya"
-disqusShortname = "awesome-golang"
+# disqusShortname = "awesome-javascript"
 #googleAnalytics = "UA-1XXXXXXX1-X"
 pygmentsCodeFences = true
 pygmentsStyle = "trac"
@@ -14,9 +14,9 @@ enableRobotsTXT = true
 paginate = 10
 
 [Params]
-  homeTitle = 'Awesome JS'
-  title = 'Awesome JS'
-  subtitle = "Learn Golang With Examples"
+  homeTitle = 'Awesome Javascript'
+  title = 'Awesome Javascript'
+  subtitle = "Learn Javascript With Examples"
   mainSections = ["blog"]
   #logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -74,15 +74,33 @@ paginate = 10
     name = "Blog"
     url = ""
     weight = 1
+
+[[menu.main]]
+  name = "Sites"
+  weight = 2
+  identifier = "sites"
+
+[[menu.main]]
+  parent = "sites"
+  name = "Awesome Golang"
+  url = "https://awesome-go-lang.netlify.app/"
+  weight = 1
+
+[[menu.main]]
+  parent = "sites"
+  name = "Awesome Javascript"
+  url = "https://awesome-javascript.netlify.app/"
+  weight = 2
+
 [[menu.main]]
     name = "About"
     url = "page/aboutme/"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "Sitemap"
     url = "sitemap.xml"
-    weight = 3
+    weight = 4
 [[menu.main]]
     name = "Feeds"
     url = "index.xml"
-    weight = 4
+    weight = 5
