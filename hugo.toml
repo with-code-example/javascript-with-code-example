@@ -1,6 +1,6 @@
 baseURL = 'https://awesome-go-lang.netlify.app/'
 languageCode = 'en-us'
-title = 'Awesome Golang'
+title = 'Awesome JS'
 theme = 'beautifulhugo'
 summaryLength = 25
 copyright = "Harendra Kumar Kanojiya"
@@ -14,8 +14,8 @@ enableRobotsTXT = true
 paginate = 10
 
 [Params]
-  homeTitle = 'Awesome Golang'
-  title = 'Awesome Golang'
+  homeTitle = 'Awesome JS'
+  title = 'Awesome JS'
   subtitle = "Learn Golang With Examples"
   mainSections = ["blog"]
   #logo = "img/avatar-icon.png" # Expecting square dimensions

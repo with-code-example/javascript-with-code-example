@@ -1,4 +1,4 @@
-# Awesome Golang
+# Awesome JS
 
 1. Introduction to Golang Best Practices
    - Understanding the Importance of Best Practices in Go
