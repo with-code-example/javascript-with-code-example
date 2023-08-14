@@ -1,11 +1,19 @@
 # Awesome Javascript
-### Add new post
-```
-hugo new blog/yyyy-mm-dd-your-post-slug.md
-```
 
-### Test Locally
-
-```
-hugo server
-```
+## [Awesome Javascript](https://awesome-javascript.netlify.app/)
+   -  [Unlocking the Power of React Hooks: A Comprehensive Guide](https://awesome-javascript.netlify.app/blog/react-hooks-comprehensive-guide/)
+   -  [Understanding React.js Components: Functional, Class, State, Props, and Hooks](https://awesome-javascript.netlify.app/blog/understanding-react-js-components-functional-class-state-props-and-hooks/)
+   -  [JavaScript Array Length](https://awesome-javascript.netlify.app/blog/mastering-javascript-array-length-guide/)
+## [Awesome Golang](https://awesome-golang.netlify.app/)
+   -  [Package and Module Design in Golang](https://awesome-golang.netlify.app/blog/package-and-module-design-in-golang/)
+   -  [Performance Optimization in Golang](https://awesome-golang.netlify.app/blog/performance-optimization-in-golang/)
+   -  [Testing, Benchmarking and Continuous Integration in Golang](https://awesome-golang.netlify.app/blog/testing-benchmarking-continuous-integration-golang/)
+   -  [Memory Management in Golang - Safeguarding Efficiency and Stability](https://awesome-golang.netlify.app/blog/memory-management-golang-safeguarding-efficiency-stability/)
+   -  [Concurrency and Goroutines - Mastering Parallelism in Golang](https://awesome-golang.netlify.app/blog/concurrency-goroutines-mastering-parallelism-go/)
+   -  [Error Handling in Golang: A Comprehensive Guide with Examples](https://awesome-golang.netlify.app/blog/error-handling-in-golang-a-comprehensive-guide-with-examples/)
+   -  [Code Formatting and Style - A Guide for Developers](https://awesome-golang.netlify.app/blog/code-formatting-and-style-a-guide-for-developers/)
+   -  [Introduction to Golang Best Practices](https://awesome-golang.netlify.app/blog/introduction-to-golang-best-practices/)
+   -  [How to Analyze Golang Project by Sonarqube With Github Actions/Workflow?](https://awesome-golang.netlify.app/blog/github-action-for-golang-with-sonarqube/)
+   -  [How to Use Sonarqube With Docker Compose](https://awesome-golang.netlify.app/blog/how-to-deploy-sonarqube-with-docker-compose/)
+   -  [How to Use Sonarqube in Go Project?](https://awesome-golang.netlify.app/blog/how-to-use-sonarqube-with-golang/)
+   -  [Golang Program Example to Sort an Array](https://awesome-golang.netlify.app/blog/golang-program-example-to-sort-an-array/)
