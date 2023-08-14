@@ -2,7 +2,7 @@
 title: "Unlocking the Power of React Hooks: A Comprehensive Guide"
 subtitle: Streamline your React.js components with Hooks for enhanced state management, effects, and more.
 description: Learn how to leverage React Hooks to supercharge your functional components. Dive into useState, useEffect, useContext, and useReducer, and discover the modern way to manage state and effects in React.js.
-tags: [javascript, reactjs]
+tags: [reactjs, react-hooks]
 slug: react-hooks-comprehensive-guide
 featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-blog/awesome-javascript/Understanding_React.js_Components_Functional_Class_State_Props_and_Hooks_cvsgis.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/awesome-blog/awesome-javascript/Understanding_React.js_Components_Functional_Class_State_Props_and_Hooks_cvsgis.png
@@ -33,6 +33,7 @@ const Counter = () => {
   );
 };
 ```
+<!-- [Learn useState in details with example](/blog/usestate-react-hook-with-examples) -->
 
 ## 2. useEffect:
 `useEffect` is used for handling side effects in functional components. It replaces lifecycle methods like `componentDidMount`, `componentDidUpdate`, and `componentWillUnmount`. It's used to perform tasks like data fetching, DOM manipulation, and more.
@@ -61,6 +62,7 @@ const DataFetchingComponent = () => {
   );
 };
 ```
+<!-- [Learn useEffect in details with example](/blog/useeffect-react-hook-with-examples) -->
 
 ## 3. useContext:
 `useContext` allows you to access the context of a parent component within a child component. Context is a way to share data between components without passing props manually at every level.
@@ -88,6 +90,8 @@ const App = () => (
   </ThemeContext.Provider>
 );
 ```
+
+<!-- [Learn useContext in details with example](/blog/unlocking-component-communication-usecontext-react) -->
 
 ## 4. useReducer:
 `useReducer` is an alternative to `useState` when dealing with complex state logic. It's particularly useful for managing state transitions in a predictable manner, similar to how Redux manages state.
@@ -122,5 +126,7 @@ const Counter = () => {
   );
 };
 ```
+
+<!-- [Learn useReducer in details with example](/blog/managing-complex-state-logic-usereducer-react) -->
 
 React Hooks provide a modern and powerful way to work with state and effects in functional components, making them more readable and easier to maintain. By understanding and using these hooks effectively, you can create robust and efficient React applications.
