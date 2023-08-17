@@ -4,7 +4,7 @@ subtitle: Streamline your React.js components with Hooks for enhanced state mana
 description: Learn how to leverage React Hooks to supercharge your functional components. Dive into useState, useEffect, useContext, and useReducer, and discover the modern way to manage state and effects in React.js.
 tags: [reactjs, react-hooks]
 slug: react-hooks-comprehensive-guide
-featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-blog/awesome-javascript/Understanding_React.[Title](2023-08-13-understanding-react-js-components-functional-class-state-props-and-hooks.md)js_Components_Functional_Class_State_Props_and_Hooks_cvsgis.png
+featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-blog/awesome-javascript/Understanding_React.js_Components_Functional_Class_State_Props_and_Hooks_cvsgis.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/awesome-blog/awesome-javascript/Understanding_React.js_Components_Functional_Class_State_Props_and_Hooks_cvsgis.png
 comments: true
 date: 2023-08-14

@@ -10,7 +10,6 @@ comments: true
 date: 2023-08-13
 toc: true
 draft: false
-series: ['React Hooks']
 ---
 
 React.js is a popular JavaScript library for building user interfaces, and it revolves around the concept of components. Components are the building blocks of a React application, allowing you to create modular, reusable, and encapsulated pieces of user interface. Each component represents a self-contained unit that can have its own state, props (properties), and lifecycle methods. Let's explore some other key types of React components:
