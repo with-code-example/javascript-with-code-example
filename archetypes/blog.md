@@ -7,7 +7,7 @@ slug:
 featured_image: 
 thumbnail: 
 comments: true
-date: 2023-DD-MM
+date: {{ .Date }}
 toc: true
 draft: false
 ---
