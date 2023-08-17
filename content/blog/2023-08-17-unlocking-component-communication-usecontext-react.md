@@ -10,6 +10,7 @@ comments: true
 date: 2023-08-17
 toc: true
 draft: false
+series: ['React Hooks']
 ---
 
 The `useContext` hook in React allows you to access the context of a parent component within a child component, without the need for prop drilling. This is particularly useful for sharing data or state between components that are not directly related in the component tree. Let's explore a couple of examples of how to use the `useContext` hook.

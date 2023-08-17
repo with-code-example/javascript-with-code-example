@@ -10,6 +10,7 @@ comments: true
 date: 2023-08-18
 toc: true
 draft: false
+series: ['React Hooks']
 ---
 
 Certainly! The `useReducer` hook is another important React Hook that is used for managing complex state logic in functional components. While the `useState` hook is great for managing simple state, `useReducer` is a more suitable choice when you have more advanced state management needs, such as when state transitions become intricate or when you need to manage multiple related pieces of state. It follows the same principles as the Redux library, helping you manage state transitions in a predictable and controlled manner. Let's delve into how the `useReducer` hook works and explore some examples.

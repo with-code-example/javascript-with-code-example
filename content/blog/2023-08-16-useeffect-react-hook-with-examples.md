@@ -10,6 +10,7 @@ comments: true
 date: 2023-08-16
 toc: true
 draft: false
+series: ['React Hooks']
 ---
 
 The `useEffect` hook is another essential React Hook that allows you to perform side effects in functional components. Side effects include tasks such as data fetching, DOM manipulation, and subscribing to external data sources. The `useEffect` hook ensures that these side effects occur after the component has rendered and the DOM is updated, preventing potential performance issues and inconsistencies. Let's delve into how the `useEffect` hook works and explore some examples.

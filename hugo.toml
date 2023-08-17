@@ -13,6 +13,9 @@ pygmentsCodefencesGuessSyntax = true
 enableRobotsTXT = true
 paginate = 10
 
+[taxonomies]
+   series = "series"
+
 [Params]
   homeTitle = 'Awesome Javascript'
   description = "Unlock the power of web development with our in-depth tutorials on JavaScript, React, and Angular. Explore hands-on examples and master the art of building dynamic and modern web applications."

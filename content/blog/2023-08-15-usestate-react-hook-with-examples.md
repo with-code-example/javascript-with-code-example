@@ -10,6 +10,7 @@ comments: true
 date: 2023-08-15
 toc: true
 draft: false
+series: ['React Hooks']
 ---
 
 The `useState` hook is one of the core React Hooks that allows you to add state to functional components. With `useState`, you can introduce dynamic data and interactivity into your components without the need for class components. This hook is used for managing local component state and is particularly useful for handling simple state changes and user interactions. Let's explore the `useState` hook in more detail and cover some advanced techniques.
