@@ -34,7 +34,7 @@ const Counter = () => {
   );
 };
 ```
-<!-- [Learn useState in details with example](/blog/usestate-react-hook-with-examples) -->
+[Learn useState in details with example](/blog/usestate-react-hook-with-examples)
 
 ## 2. useEffect:
 `useEffect` is used for handling side effects in functional components. It replaces lifecycle methods like `componentDidMount`, `componentDidUpdate`, and `componentWillUnmount`. It's used to perform tasks like data fetching, DOM manipulation, and more.
@@ -63,7 +63,7 @@ const DataFetchingComponent = () => {
   );
 };
 ```
-<!-- [Learn useEffect in details with example](/blog/useeffect-react-hook-with-examples) -->
+[Learn useEffect in details with example](/blog/useeffect-react-hook-with-examples)
 
 ## 3. useContext:
 `useContext` allows you to access the context of a parent component within a child component. Context is a way to share data between components without passing props manually at every level.
@@ -92,7 +92,7 @@ const App = () => (
 );
 ```
 
-<!-- [Learn useContext in details with example](/blog/unlocking-component-communication-usecontext-react) -->
+[Learn useContext in details with example](/blog/unlocking-component-communication-usecontext-react)
 
 ## 4. useReducer:
 `useReducer` is an alternative to `useState` when dealing with complex state logic. It's particularly useful for managing state transitions in a predictable manner, similar to how Redux manages state.
@@ -128,6 +128,6 @@ const Counter = () => {
 };
 ```
 
-<!-- [Learn useReducer in details with example](/blog/managing-complex-state-logic-usereducer-react) -->
+[Learn useReducer in details with example](/blog/managing-complex-state-logic-usereducer-react)
 
 React Hooks provide a modern and powerful way to work with state and effects in functional components, making them more readable and easier to maintain. By understanding and using these hooks effectively, you can create robust and efficient React applications.
