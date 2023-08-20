@@ -17,9 +17,9 @@ paginate = 10
   series = "series"
   tags = "tags"
 [Params]
-  homeTitle = 'Awesome Javascript'
+  homeTitle = 'Javascript With Example Code'
   description = "Unlock the power of web development with our in-depth tutorials on JavaScript, React, and Angular. Explore hands-on examples and master the art of building dynamic and modern web applications."
-  title = 'Awesome Javascript'
+  title = 'Javascript With Example Code'
   subtitle = "Learn Javascript With Examples"
   mainSections = ["blog"]
   #logo = "img/avatar-icon.png" # Expecting square dimensions
@@ -86,12 +86,12 @@ paginate = 10
 
 [[menu.main]]
   parent = "sites"
-  name = "Awesome Golang"
+  name = "Golang"
   url = "https://golang.withcodeexample.com/"
   weight = 1
 
 [[menu.main]]
   parent = "sites"
-  name = "Awesome Javascript"
+  name = "Javascript"
   url = "https://javascript.withcodeexample.com/"
   weight = 2

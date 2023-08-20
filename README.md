@@ -1,10 +1,10 @@
-# Awesome Javascript
+# Javascript With Code Example
 
-## [Awesome Javascript](https://javascript.withcodeexample.com/)
+## [Javascript](https://javascript.withcodeexample.com/)
    -  [Unlocking the Power of React Hooks: A Comprehensive Guide](https://javascript.withcodeexample.com/blog/react-hooks-comprehensive-guide/)
    -  [Understanding React.js Components: Functional, Class, State, Props, and Hooks](https://javascript.withcodeexample.com/blog/understanding-react-js-components-functional-class-state-props-and-hooks/)
    -  [JavaScript Array Length](https://javascript.withcodeexample.com/blog/mastering-javascript-array-length-guide/)
-## [Awesome Golang](https://golang.withcodeexample.com/)
+## [Golang](https://golang.withcodeexample.com/)
    -  [Package and Module Design in Golang](https://golang.withcodeexample.com/blog/package-and-module-design-in-golang/)
    -  [Performance Optimization in Golang](https://golang.withcodeexample.com/blog/performance-optimization-in-golang/)
    -  [Testing, Benchmarking and Continuous Integration in Golang](https://golang.withcodeexample.com/blog/testing-benchmarking-continuous-integration-golang/)
