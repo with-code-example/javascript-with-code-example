@@ -1,10 +1,10 @@
-baseURL = 'https://awesome-javascript.netlify.app/'
+baseURL = 'https://javascript.withcodeexample.com/'
 languageCode = 'en-us'
-title = 'Awesome Javascript'
+title = 'Javascript With Example Code'
 theme = 'beautifulhugo'
 summaryLength = 25
 copyright = "Harendra Kumar Kanojiya"
-# disqusShortname = "awesome-javascript"
+disqusShortname = "javascript-with-code-example"
 #googleAnalytics = "UA-1XXXXXXX1-X"
 pygmentsCodeFences = true
 pygmentsStyle = "trac"
@@ -42,18 +42,18 @@ paginate = 10
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Harendra Kumar"
-  website = "https://harendra21.github.io"
-  email = "harendraverma21@gmail.com"
-  facebook = "harendraverma21"
-  github = "harendra21"
+  name = "With Code Example"
+  website = "https://withcodeexample.com/"
+  # email = "harendraverma21@gmail.com"
+  # facebook = "harendraverma21"
+  github = "awesome-blog"
   #gitlab = "username"
   #bitbucket = "username"
-  twitter = "harendraverma2"
+  #twitter = "harendraverma2"
   #reddit = "username"
-  linkedin = "harendra21/"
+  #linkedin = "harendra21/"
   #xing = "username"
-  stackoverflow = "users/6720451/harendra-kumar"
+  #stackoverflow = "users/6720451/harendra-kumar"
   #snapchat = "username"
   #instagram = "username"
   #youtube = "user/username" # or channel/channelname
@@ -76,7 +76,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Blog"
-    url = ""
+    url = "https://javascript.withcodeexample.com/"
     weight = 1
 
 [[menu.main]]
@@ -87,24 +87,11 @@ paginate = 10
 [[menu.main]]
   parent = "sites"
   name = "Awesome Golang"
-  url = "https://awesome-golang.netlify.app/"
+  url = "https://golang.withcodeexample.com/"
   weight = 1
 
 [[menu.main]]
   parent = "sites"
   name = "Awesome Javascript"
-  url = "https://awesome-javascript.netlify.app/"
+  url = "https://javascript.withcodeexample.com/"
   weight = 2
-
-[[menu.main]]
-    name = "About"
-    url = "https://harendra21.github.io/"
-    weight = 3
-[[menu.main]]
-    name = "Sitemap"
-    url = "sitemap.xml"
-    weight = 4
-[[menu.main]]
-    name = "Feeds"
-    url = "index.xml"
-    weight = 5
