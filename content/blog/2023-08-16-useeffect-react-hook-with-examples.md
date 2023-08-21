@@ -2,7 +2,7 @@
 title: useEffect React Hook Explained With Example
 subtitle: Manage Side Effects in React Functional Components with the useEffect Hook
 description: Discover the useEffect hook in React – the essential tool for handling side effects in functional components. Simplify your code and enhance performance.
-tags: [javascript, react-hooks]
+tags: [reactjs, react-hooks]
 slug: useeffect-react-hook-with-examples
 featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-blog/awesome-javascript/React_Hooks_useEffect_icmtv1.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/awesome-blog/awesome-javascript/React_Hooks_useEffect_icmtv1.png

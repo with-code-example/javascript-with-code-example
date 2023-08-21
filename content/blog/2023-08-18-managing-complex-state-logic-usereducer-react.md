@@ -2,7 +2,7 @@
 title: A Guide to the useReducer Hook in React
 subtitle: Master Advanced State Management in React with the useReducer Hook
 description: Learn how the useReducer hook empowers your React components with advanced state management. Simplify complex logic and achieve predictable state transitions.
-tags: [javascript, react-hooks]
+tags: [reactjs, react-hooks]
 slug: managing-complex-state-logic-usereducer-react
 featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-blog/awesome-javascript/React_Hooks_useReducer_hgx9vq.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/awesome-blog/awesome-javascript/React_Hooks_useReducer_hgx9vq.png
