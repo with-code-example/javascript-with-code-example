@@ -1,6 +1,6 @@
 baseURL = 'https://javascript.withcodeexample.com/'
 languageCode = 'en-us'
-title = 'Javascript With Example Code'
+title = 'Javascript With Code Example'
 theme = 'beautifulhugo'
 summaryLength = 25
 copyright = "Harendra Kumar Kanojiya"
@@ -11,15 +11,15 @@ pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 enableRobotsTXT = true
-paginate = 10
+paginate = 8
 
 [taxonomies]
   series = "series"
   tags = "tags"
 [Params]
-  homeTitle = 'Javascript With Example Code'
+  homeTitle = 'Javascript With Code Example'
   description = "Unlock the power of web development with our in-depth tutorials on JavaScript, React, and Angular. Explore hands-on examples and master the art of building dynamic and modern web applications."
-  title = 'Javascript With Example Code'
+  title = 'Javascript With Code Example'
   subtitle = "Learn Javascript With Examples"
   mainSections = ["blog"]
   #logo = "img/avatar-icon.png" # Expecting square dimensions
