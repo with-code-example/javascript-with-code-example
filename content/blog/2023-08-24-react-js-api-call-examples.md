@@ -146,3 +146,18 @@ Provide user-friendly feedback during API calls. Display loading spinners or pla
 **Conclusion**
 
 Congratulations! You've gained a comprehensive understanding of making API calls in React JS. The ability to integrate external data sources into your applications opens doors to creating dynamic and engaging user experiences. By following the steps outlined in this guide and exploring the practical examples provided, you're well-equipped to confidently implement API calls in your React projects. Keep honing your skills, experimenting with different APIs, and pushing the boundaries of what you can achieve with React's powerful capabilities. Happy coding!
+
+
+**[Best Course To Learn React Js](https://ekaro.in/enkr20230822s32493941)**
+- Name - **React - The Complete Guide 2023 (incl. React Router & Redux)**
+- Rating - **4.6/5 (192,833 ratings)**
+- Students - **771,443**
+- Highlights - **50.5 hours on-demand video | 15 coding exercises | Assignments | 58 articles | Certificate of completion**
+
+[![What you will learn](https://res.cloudinary.com/harendra21/image/upload/v1692706910/javascriptwithexample/React_course_ioskno.png)](https://ekaro.in/enkr20230822s32493941)
+
+-----
+
+[![toc](https://res.cloudinary.com/harendra21/image/upload/v1692706910/javascriptwithexample/react_course_wl13cv.png)](https://ekaro.in/enkr20230822s32493941)
+
+**[Buy Here](https://ekaro.in/enkr20230822s32493941)**
