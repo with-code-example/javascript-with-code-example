@@ -4,7 +4,7 @@ subtitle: Exploring the JavaScript Array Length Property
 description: Dive deep into the world of JavaScript arrays with their hidden gem—the dynamic length property. Learn how to manipulate arrays, optimize iteration, and uncover its magic for enhanced web development.
 tags: [javascript arrays]
 slug: mastering-javascript-array-length-guide
-featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-blog/awesome-javascript/JavaScript_Array_Length_xo08p1.png
+featured_image: https://res.cloudinary.com/harendra21/image/upload/w_1200/awesome-blog/awesome-javascript/JavaScript_Array_Length_xo08p1.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/awesome-blog/awesome-javascript/JavaScript_Array_Length_xo08p1.png 
 comments: true
 date: 2023-08-10

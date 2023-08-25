@@ -2,7 +2,7 @@
 title: "React Context API and Prop Drilling with Examples"
 subtitle: Streamlining State Management and Data Sharing in React Applications
 description: Learn how the React Context API revolutionizes state management and data sharing, replacing prop drilling with a cleaner and more efficient approach.
-tags: [javascript, react]
+tags: [javascript, reactjs]
 slug: react-context-api-prop-drilling-examples
 featured_image: https://res.cloudinary.com/harendra21/image/upload/w_1200/javascriptwithexample/react-context-api_nwwznt.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/javascriptwithexample/react-context-api_nwwznt.png

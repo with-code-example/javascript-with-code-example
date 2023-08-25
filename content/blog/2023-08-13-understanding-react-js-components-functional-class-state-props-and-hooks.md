@@ -4,7 +4,7 @@ subtitle: Exploring the Key Types of React Components and Core Concepts
 description: Discover the fundamental building blocks of React.js applications – components. Dive into functional and class components, learn how state and props facilitate data flow, and explore the power of lifecycle methods and modern hooks.
 slug: understanding-react-js-components-functional-class-state-props-and-hooks
 tags: [javascript, reactjs]
-featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-blog/awesome-javascript/Understanding_React.js_Components__Functional_Class_State_Props_and_Hooks_x12rck.png
+featured_image: https://res.cloudinary.com/harendra21/image/upload/w_1200/awesome-blog/awesome-javascript/Understanding_React.js_Components__Functional_Class_State_Props_and_Hooks_x12rck.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/awesome-blog/awesome-javascript/Understanding_React.js_Components__Functional_Class_State_Props_and_Hooks_x12rck.png
 comments: true
 date: 2023-08-13

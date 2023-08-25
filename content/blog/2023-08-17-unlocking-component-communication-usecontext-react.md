@@ -4,7 +4,7 @@ subtitle: Share Data and Functions Across React Components using useContext
 description: Discover how the useContext hook revolutionizes React component communication. Easily share data and functions without prop drilling, enhancing code clarity and performance.
 tags: [reactjs, react-hooks]
 slug: unlocking-component-communication-usecontext-react
-featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-blog/awesome-javascript/React_Hooks_useContext_izbhvl.png
+featured_image: https://res.cloudinary.com/harendra21/image/upload/w_1200/awesome-blog/awesome-javascript/React_Hooks_useContext_izbhvl.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/awesome-blog/awesome-javascript/React_Hooks_useContext_izbhvl.png
 comments: true
 date: 2023-08-17

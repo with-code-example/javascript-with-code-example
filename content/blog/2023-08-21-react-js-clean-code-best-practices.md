@@ -3,7 +3,7 @@ title: "React JS Clean Code Guide"
 subtitle: Enhance Your React.js Development with Best Practices and Proven Techniques 
 description: Enhance your React.js coding experience by following best practices for component structure, naming conventions, formatting, error handling, testing, and more.
 slug: react-js-clean-code-best-practices
-featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/javascriptwithexample/React_JS_Clean_Code_Guide_l3cv4e.png
+featured_image: https://res.cloudinary.com/harendra21/image/upload/w_1200/javascriptwithexample/React_JS_Clean_Code_Guide_l3cv4e.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/javascriptwithexample/React_JS_Clean_Code_Guide_l3cv4e.png
 comments: true
 date: 2023-08-21

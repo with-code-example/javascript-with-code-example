@@ -4,7 +4,7 @@ subtitle: Learn How to Effortlessly Make API Calls in React JS with Real-World E
 description: Explore practical examples and step-by-step instructions on performing React JS API calls for dynamic web applications. Unlock the potential of API integration in your React projects.
 tags: [javascript, react-js]
 slug: react-js-api-call-examples
-featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/javascriptwithexample/API_Calls_in_React_JS_ihihco.png
+featured_image: https://res.cloudinary.com/harendra21/image/upload/w_1200/javascriptwithexample/API_Calls_in_React_JS_ihihco.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/javascriptwithexample/API_Calls_in_React_JS_ihihco.png
 comments: true
 date: 2023-08-24

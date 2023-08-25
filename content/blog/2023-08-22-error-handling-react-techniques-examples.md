@@ -4,7 +4,7 @@ subtitle: Mastering Error Handling for Robust React Applications
 description: Learn various techniques for effective error handling in React applications with practical examples. Explore error boundaries, event handler error catching, `setTimeout` error handling, and more.
 tags: [javascript, react]
 slug: error-handling-react-techniques-examples
-featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/javascriptwithexample/Handle_Errors_in_React_l31zpo.png
+featured_image: https://res.cloudinary.com/harendra21/image/upload/w_1200/javascriptwithexample/Handle_Errors_in_React_l31zpo.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/javascriptwithexample/Handle_Errors_in_React_l31zpo.png
 comments: true
 date: 2023-08-22

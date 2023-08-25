@@ -4,7 +4,7 @@ subtitle: Empower Functional Components with Dynamic State using useState Hook
 description: Learn to add dynamic interactivity to React functional components using the useState hook. Master state management for more engaging user interfaces.
 tags: [reactjs, react-hooks]
 slug: usestate-react-hook-with-examples
-featured_image: https://res.cloudinary.com/harendra21/image/upload/w_750/awesome-blog/awesome-javascript/react-hooks-useState.png
+featured_image: https://res.cloudinary.com/harendra21/image/upload/w_1200/awesome-blog/awesome-javascript/react-hooks-useState.png
 thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/awesome-blog/awesome-javascript/react-hooks-useState.png
 comments: true
 date: 2023-08-15
