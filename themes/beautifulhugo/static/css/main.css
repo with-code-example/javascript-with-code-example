@@ -218,7 +218,7 @@ figure:not(.dark) img, img.white {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 20px 0;
+    
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -998,4 +998,10 @@ li.list-group-item.active, li.list-group-item.active:hover {
 }
 .series-heading, .blog-heading h1, .blog-subheading{
   text-align: center;
+}
+html {
+  scroll-behavior: smooth;
+}
+ul.breadcrumb {
+  background: none;
 }
