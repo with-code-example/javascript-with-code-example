@@ -2,8 +2,8 @@
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: 
 description: 
-tags: [javascript]
 slug: 
+tags: [javascript]
 featured_image: 
 thumbnail: 
 comments: true
