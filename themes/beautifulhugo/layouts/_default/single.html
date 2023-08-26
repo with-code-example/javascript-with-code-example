@@ -9,7 +9,7 @@
         </p>
 
         {{ if .Params.featured_image }}
-          <img src="{{ .Params.featured_image }}" alt="{{ .Params.title  }}">
+          <img src="{{ .Params.featured_image }}"  width="1200" height="auto" alt="{{ .Params.title  }}">
         {{ end }}
 
         {{ partial "toc.html" . }}
