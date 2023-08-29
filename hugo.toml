@@ -39,6 +39,13 @@ paginate = 8
 #  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
   timeZone = "Asia/Kolkata"
   generateTOC = true
+  isAlgolia=true
+  algoliaAppId='85FPP7Z926'
+  algoliaApiKey='e039e6af674a0a6dd48a388870d91183'
+  algoliaSiteId='9f4705f7-24e6-473f-b7ee-157ac0634dcd'
+  isGgoogleAnalytics=true
+  googleAnalytics = "G-GQKKYY4MGH"
+  googleSiteVarify='Q7NS0IbakCR3A0QWxE1ka9o2xThUBLTCuIbD750UFgU'
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
