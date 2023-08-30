@@ -1,0 +1,104 @@
+baseURL = 'https://javascript.withcodeexample.com/'
+languageCode = 'en-us'
+title = 'Javascript With Code Example'
+theme = ["mytheme"]
+summaryLength = 25
+copyright = "Harendra Kumar Kanojiya"
+disqusShortname = "javascript-with-code-example"
+#googleAnalytics = "UA-1XXXXXXX1-X"
+pygmentsCodeFences = true
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodefencesGuessSyntax = true
+enableRobotsTXT = true
+paginate = 8
+
+[taxonomies]
+  series = "series"
+  tags = "tags"
+[Params]
+  homeTitle = 'Javascript With Code Example'
+  description = "Unlock the power of web development with our in-depth tutorials on JavaScript, React, and Angular. Explore hands-on examples and master the art of building dynamic and modern web applications."
+  title = 'Javascript With Code Example'
+  subtitle = "Learn Javascript With Examples"
+  mainSections = ["blog"]
+  #logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = true
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = false
+  useHLJS = true
+  socialShare = true
+  delayDisqus = false
+  showRelatedPosts = true
+  hideAuthor = true
+#  gcse = "667de25a4f13c494d" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+  timeZone = "Asia/Kolkata"
+  generateTOC = true
+  isAlgolia=true
+  algoliaAppId='85FPP7Z926'
+  algoliaApiKey='e039e6af674a0a6dd48a388870d91183'
+  algoliaSiteId='9f4705f7-24e6-473f-b7ee-157ac0634dcd'
+  isGgoogleAnalytics=true
+  googleAnalytics = "G-GQKKYY4MGH"
+  googleSiteVarify='Q7NS0IbakCR3A0QWxE1ka9o2xThUBLTCuIbD750UFgU'
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "With Code Example"
+  website = "https://withcodeexample.com/"
+  # email = "harendraverma21@gmail.com"
+  # facebook = "harendraverma21"
+  github = "awesome-blog"
+  #gitlab = "username"
+  #bitbucket = "username"
+  #twitter = "harendraverma2"
+  #reddit = "username"
+  #linkedin = "harendra21/"
+  #xing = "username"
+  #stackoverflow = "users/6720451/harendra-kumar"
+  #snapchat = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #elegram = "username"
+  #500px = "username"
+  #codepen = "username"
+  #mastodon = "url"
+  #kaggle = "username"
+  #eibo = "username"
+  #slack = "username"
+  #medium = "username"
+  #discord = "invite code (https://discord.gg/XXXXXXX)"
+  #strava = "userid"
+
+[[menu.main]]
+    name = "Blog"
+    url = "https://javascript.withcodeexample.com/"
+    weight = 1
+
+[[menu.main]]
+  name = "Sites"
+  weight = 2
+  identifier = "sites"
+
+[[menu.main]]
+  parent = "sites"
+  name = "Golang"
+  url = "https://golang.withcodeexample.com/"
+  weight = 1
+
+[[menu.main]]
+  parent = "sites"
+  name = "Javascript"
+  url = "https://javascript.withcodeexample.com/"
+  weight = 2
