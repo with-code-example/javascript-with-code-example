@@ -1,7 +1,7 @@
 baseURL = 'https://javascript.withcodeexample.com/'
 languageCode = 'en-us'
 title = 'Javascript With Code Example'
-theme = 'mytheme'
+theme = ["hugo-shortcode-roneo-collection", "mytheme"]
 summaryLength = 25
 copyright = "Harendra Kumar Kanojiya"
 disqusShortname = "javascript-with-code-example"
