@@ -10,7 +10,7 @@ comments: true
 date: 2023-09-02
 toc: true
 draft: false
-audio: https://with-code-example.s3.ap-south-1.amazonaws.com/blog/react-styling-guide.e9f6dffd-813f-4cca-9fca-1280a71db48a.mp3
+audio: https://res.cloudinary.com/harendra21/video/upload/v1693390557/javascriptwithexample/styling-react_pip8zv.wav
 ---
 
 In React, there are several options for styling your components and user interfaces. Here are three common approaches: inline styles, CSS classes, and CSS modules.
