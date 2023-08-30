@@ -1,7 +1,7 @@
 baseURL = 'https://javascript.withcodeexample.com/'
 languageCode = 'en-us'
 title = 'Javascript With Code Example'
-theme = 'beautifulhugo'
+theme = ["mytheme"]
 summaryLength = 25
 copyright = "Harendra Kumar Kanojiya"
 disqusShortname = "javascript-with-code-example"
@@ -22,7 +22,7 @@ paginate = 8
   title = 'Javascript With Code Example'
   subtitle = "Learn Javascript With Examples"
   mainSections = ["blog"]
-  #logo = "img/avatar-icon.png" # Expecting square dimensions
+  #logo = "https://res.cloudinary.com/harendra21/image/upload/v1693301008/With_Code_Example_pemcaz.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = true
