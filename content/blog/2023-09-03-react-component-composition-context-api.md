@@ -10,6 +10,7 @@ comments: true
 date: 2023-09-03
 toc: true
 draft: true
+series: [React Js Course]
 ---
 
 Component composition and props drilling are concepts used in React to build complex user interfaces by combining smaller, reusable components. These concepts are integral to creating modular, maintainable, and organized applications.
