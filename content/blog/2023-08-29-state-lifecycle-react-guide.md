@@ -11,7 +11,7 @@ date: 2023-08-29
 toc: true
 draft: false
 series: [React Js Course]
-audio: https://with-code-example.s3.ap-south-1.amazonaws.com/blog/state-lifecycle-react-guide.1f25aff6-d8a6-42ba-920d-d7349288386d.mp3
+audio: https://res.cloudinary.com/harendra21/video/upload/v1693479140/javascriptwithexample/state-lifecycle-in-react_vlceqv.wav
 ---
 
 In React, component state is a mechanism that allows components to manage and maintain their own internal data that can change over time. Unlike props, which are passed from parent to child and are read-only, state is controlled and managed within a component itself. Component state is particularly useful for handling user interactions, managing form data, and keeping track of dynamic content that needs to be updated over time.
