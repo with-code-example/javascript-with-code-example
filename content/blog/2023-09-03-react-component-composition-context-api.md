@@ -4,12 +4,12 @@ subtitle: Building Modular Interfaces and Data Flow
 description: Learn component composition and props drilling in React. Nest components, pass data with props, and discover the Context API as an alternative. Build modular interfaces and streamline data flow in your applications.
 slug: react-component-composition-context-api
 tags: [javascript, reactjs]
-featured_image: 
-thumbnail: 
+featured_image: https://res.cloudinary.com/harendra21/image/upload/w_1200/javascriptwithexample/Component_Composition_and_Context_Api_in_React_yakgby.png
+thumbnail: https://res.cloudinary.com/harendra21/image/upload/w_400/javascriptwithexample/Component_Composition_and_Context_Api_in_React_yakgby.png
 comments: true
-date: 2023-09-03
+date: 2023-09-06
 toc: true
-draft: true
+draft: false
 series: [React Js Course]
 ---
 
