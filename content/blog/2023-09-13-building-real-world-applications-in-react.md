@@ -1,5 +1,5 @@
 ---
-title: Building Real-World Applications in React: A Step-by-Step Guide
+title: "Building Real-World Applications in React: A Step-by-Step Guide"
 subtitle: From Setup to Deployment and Beyond
 description: Learn how to build interactive and scalable web applications using React. Follow this comprehensive step-by-step guide, from setting up your development environment to deploying your app and ensuring security.
 slug: building-real-world-applications-in-react
