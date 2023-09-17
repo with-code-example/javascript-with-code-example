@@ -82,13 +82,35 @@ paginate = 8
   #strava = "userid"
 
 [[menu.main]]
-    name = "Blog"
-    url = "https://javascript.withcodeexample.com/"
+    name = "Home"
+    url = "/"
     weight = 1
 
 [[menu.main]]
-  name = "Sites"
+  name = "Course"
   weight = 2
+  identifier = "course"
+
+[[menu.main]]
+  parent = "course"
+  name = "React Js"
+  url = "/series/react-js-course/"
+  weight = 1
+
+[[menu.main]]
+  parent = "course"
+  name = "React Hooks"
+  url = "/series/react-hooks/"
+  weight = 2
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 3
+
+[[menu.main]]
+  name = "Sites"
+  weight = 4
   identifier = "sites"
 
 [[menu.main]]
