@@ -10,6 +10,7 @@ comments: true
 date: 2023-09-16
 toc: true
 series: [React Js Course]
+canonical_url: https://courses.withcodeexample.com/course/react-js/testing-debugging/
 ---
 
 

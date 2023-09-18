@@ -10,6 +10,7 @@ comments: true
 date: 2023-09-14
 toc: true
 series: [React Js Course]
+canonical_url: https://courses.withcodeexample.com/course/react-js/performance-optimization/
 ---
 
 In today's fast-paced digital world, web application performance is crucial. Users expect applications to be lightning-fast, and even the slightest delays can lead to frustration and abandonment. This is where performance optimization comes into play. In this article, we will explore various techniques and strategies to enhance the performance of your React applications.

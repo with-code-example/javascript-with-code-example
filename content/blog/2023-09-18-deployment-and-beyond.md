@@ -10,6 +10,7 @@ comments: true
 date: 2023-09-18
 toc: true
 series: [React Js Course]
+canonical_url: https://courses.withcodeexample.com/course/react-js/deployment/
 ---
 
 In the world of web development, creating a React application is only half the journey. Once your application is built and functional, the next critical step is to deploy it to the web, making it accessible to users worldwide. In this article, we'll explore the process of deploying a React app and delve into advanced topics that can take your development skills to the next level.

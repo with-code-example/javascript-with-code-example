@@ -11,6 +11,7 @@ date: 2023-09-07
 toc: true
 draft: false
 series: [React Js Course]
+canonical_url: https://courses.withcodeexample.com/course/react-js/react-router/
 ---
 
 React Router is a library that provides routing capabilities to your React applications. It allows you to create single-page applications (SPAs) with multiple views or pages, each represented by its own component. React Router manages the navigation between these views, enabling a seamless and dynamic user experience without full page reloads.

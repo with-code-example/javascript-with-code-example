@@ -11,6 +11,7 @@ date: 2023-09-08
 toc: true
 draft: false
 series: [React Js Course]
+canonical_url: https://courses.withcodeexample.com/course/react-js/state-management/
 ---
 
 Redux is a state management library for JavaScript applications, particularly useful in managing the state of large and complex applications. It provides a predictable and centralized way to manage the application's state and makes it easier to understand, debug, and maintain the state transitions.

@@ -11,6 +11,7 @@ date: 2023-09-13
 toc: true
 draft: false
 series: [React Js Course]
+canonical_url: https://courses.withcodeexample.com/course/react-js/real-world-app/
 ---
 
 

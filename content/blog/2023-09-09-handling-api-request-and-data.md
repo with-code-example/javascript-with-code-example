@@ -11,6 +11,7 @@ date: 2023-09-09
 toc: true
 draft: false
 series: [React Js Course]
+canonical_url: https://courses.withcodeexample.com/course/react-js/handling-api/
 ---
 
 Handling API requests and data in a React application involves making asynchronous calls to APIs, fetching data, and updating the component's state accordingly. Here's a general outline of how you can handle API requests and data in a React application:
