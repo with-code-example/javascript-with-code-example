@@ -17,10 +17,10 @@ paginate = 8
   series = "series"
   tags = "tags"
 [Params]
-  homeTitle = 'Javascript With Code Example'
+  homeTitle = 'Javascript'
   description = "Unlock the power of web development with our in-depth tutorials on JavaScript, React, and Angular. Explore hands-on examples and master the art of building dynamic and modern web applications."
   title = 'Javascript With Code Example'
-  subtitle = "Learn Javascript With Examples"
+  subtitle = "Learn with working Examples and Audio summary"
   mainSections = ["blog"]
   logo = "https://res.cloudinary.com/harendra21/image/upload/w_100/With_Code_Example_pemcaz.png" # Expecting square dimensions
   favicon = "https://res.cloudinary.com/harendra21/image/upload/w_400/With_Code_Example_pemcaz_nzrfh9.png"
@@ -87,30 +87,14 @@ paginate = 8
     weight = 1
 
 [[menu.main]]
-  name = "Course"
+  name = "Courses"
   weight = 2
-  identifier = "course"
-
-[[menu.main]]
-  parent = "course"
-  name = "React Js"
-  url = "/series/react-js-course/"
-  weight = 1
-
-[[menu.main]]
-  parent = "course"
-  name = "React Hooks"
-  url = "/series/react-hooks/"
-  weight = 2
-
-[[menu.main]]
-    name = "Tags"
-    url = "/tags"
-    weight = 3
+  url = "https://courses.withcodeexample.com/course/"
+  identifier = "courses"
 
 [[menu.main]]
   name = "Sites"
-  weight = 4
+  weight = 3
   identifier = "sites"
 
 [[menu.main]]
@@ -124,3 +108,19 @@ paginate = 8
   name = "Javascript"
   url = "https://javascript.withcodeexample.com/"
   weight = 2
+
+[[menu.main]]
+  parent = "sites"
+  name = "Courses"
+  url = "https://courses.withcodeexample.com/"
+  weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 4
+
+[[menu.main]]
+    name = "Discord"
+    url = "https://discord.gg/hS2EqYqM"
+    weight = 5
