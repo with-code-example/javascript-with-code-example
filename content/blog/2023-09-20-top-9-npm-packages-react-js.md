@@ -10,7 +10,8 @@ comments: true
 date: 2023-09-20
 toc: true
 draft: false
-series: "Top"
+series: ["Top In React"]
+audio: https://res.cloudinary.com/harendra21/video/upload/v1695196663/javascriptwithexample/9_npm_packages_odfyum.mp3
 ---
 
 Today, I'd like to share with you a selection of the top 9 NPM (Node Package Manager) packages that are commonly needed when working on React.js projects. These packages are widely recognized for their utility in React.js development. It's important to note that the popularity of these packages can shift over time, so it's a good practice to stay updated with the latest recommendations and developments in the React.js ecosystem.
