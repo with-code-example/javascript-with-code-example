@@ -3,7 +3,7 @@ name: Push File
 on: 
   push:
     branches:
-      - master
+      - main
 
 jobs:
   copy-file:
