@@ -13,6 +13,9 @@ pygmentsCodefencesGuessSyntax = true
 enableRobotsTXT = true
 paginate = 8
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [taxonomies]
   series = "series"
   tags = "tags"
